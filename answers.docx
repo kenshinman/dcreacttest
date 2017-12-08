@@ -1,0 +1,11 @@
+1. How long did you spend on the code test?
+I apent close to 2 hours. This is because I had issues creating an account on the openweather
+
+2. What went well?
+Everything except the getting the API key
+
+3. Was there anything that was attempted but was not possible to get working in the time so is not visible in the code?
+Tried to add weather images on the right side of the homepage but it's taking time
+
+4. What would you do to improve it / continue development?
+I would like to add some better design, Make all API calls from the redux rather than just using it to set the data. Also, with slow internet, I noticed the switch from metric to inperial units and vice versa is not smooth, would love to make it smoother 
